@@ -5,4 +5,4 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 ## Predictions & Result Comparisons
 
-Before running the model, I believed XXXXX model would perform better on the scaled data. I beleived the XXXXXXX model would perform better on the unscaled data.
+Before running the model, I believed the linear regression model would perform better on the scaled data as there would not be an issue of outliers to throw it off. I beleived the random forest model would perform better on the unscaled data because it would be better at handling the wide range of values within the data set.
